@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/val-app/static/css/main.b817945f.css",
+    "main.js": "/val-app/static/js/main.0fd2d856.js",
+    "static/js/453.6bff2166.chunk.js": "/val-app/static/js/453.6bff2166.chunk.js",
+    "static/media/logo.svg": "/val-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/val-app/index.html",
+    "main.b817945f.css.map": "/val-app/static/css/main.b817945f.css.map",
+    "main.0fd2d856.js.map": "/val-app/static/js/main.0fd2d856.js.map",
+    "453.6bff2166.chunk.js.map": "/val-app/static/js/453.6bff2166.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b817945f.css",
+    "static/js/main.0fd2d856.js"
+  ]
+}
