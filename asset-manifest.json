@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/val-app/static/css/main.b817945f.css",
-    "main.js": "/val-app/static/js/main.5963fff3.js",
-    "static/js/453.6bff2166.chunk.js": "/val-app/static/js/453.6bff2166.chunk.js",
-    "index.html": "/val-app/index.html",
-    "main.b817945f.css.map": "/val-app/static/css/main.b817945f.css.map",
-    "main.5963fff3.js.map": "/val-app/static/js/main.5963fff3.js.map",
-    "453.6bff2166.chunk.js.map": "/val-app/static/js/453.6bff2166.chunk.js.map"
+    "main.css": "./static/css/main.b817945f.css",
+    "main.js": "./static/js/main.3bc63e84.js",
+    "static/js/453.6bff2166.chunk.js": "./static/js/453.6bff2166.chunk.js",
+    "index.html": "./index.html",
+    "main.b817945f.css.map": "./static/css/main.b817945f.css.map",
+    "main.3bc63e84.js.map": "./static/js/main.3bc63e84.js.map",
+    "453.6bff2166.chunk.js.map": "./static/js/453.6bff2166.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b817945f.css",
-    "static/js/main.5963fff3.js"
+    "static/js/main.3bc63e84.js"
   ]
 }
